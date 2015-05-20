@@ -1,4 +1,6 @@
 # javascripting
 
-https://github.com/sethvincent/javascripting
 Node School javascripting exercises
+
+
+https://github.com/sethvincent/javascripting
